@@ -1,0 +1,23 @@
+{
+  "name": "belajar-nodejs-npm",
+  "version": "1.0.0",
+  "description": "belajar nodejs npm dari youtube programmer zaman now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Romzyyy/belajar-nodejs-npm.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm"
+  ],
+  "author": "Romzyyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romzyyy/belajar-nodejs-npm/issues"
+  },
+  "homepage": "https://github.com/Romzyyy/belajar-nodejs-npm#readme"
+}
