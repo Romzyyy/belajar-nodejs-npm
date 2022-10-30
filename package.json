@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/Romzyyy/belajar-nodejs-npm/issues"
   },
-  "homepage": "https://github.com/Romzyyy/belajar-nodejs-npm#readme"
+  "homepage": "https://github.com/Romzyyy/belajar-nodejs-npm#readme",
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
 }
