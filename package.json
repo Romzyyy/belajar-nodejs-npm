@@ -5,6 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "prestart": "echo 'before application start' ",
+    "start": "node index.js",
+    "poststart": "echo 'after application start' ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
