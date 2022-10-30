@@ -2,7 +2,10 @@
   "name": "belajar-nodejs-npm",
   "version": "1.0.0",
   "description": "belajar nodejs npm dari youtube programmer zaman now",
-  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./write": "./write.js"
+  },
   "type": "module",
   "scripts": {
     "prestart": "echo 'before application start' ",
